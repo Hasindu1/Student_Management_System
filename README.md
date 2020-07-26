@@ -17,7 +17,7 @@ An application which was developed to handle student details including time tabl
 
 ### Database 
 
-![Firebase](https://img.shields.io/badge/Tool-Firebase-blue) 
+![Firebase](https://img.shields.io/badge/Database-Firebase-blue) 
 
 ## Some user interfaces of the system
 
